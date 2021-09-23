@@ -1,0 +1,1 @@
+Redux basics applied to random project.
